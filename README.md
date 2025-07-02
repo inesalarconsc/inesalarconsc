@@ -1,7 +1,7 @@
 
 # 👋 ¡Hola! Soy Inés
 
-Soy consultora de negocios, contadora y analista de datos con enfoque en visualización e inteligencia comercial. Me apasiona transformar datos complejos en decisiones claras para empresas reales. Actualmente desarrollo dashboards con Power BI y herramientas de análisis económico para mejorar el rendimiento comercial de mis clientes.
+Soy consultora de negocios, financiera y analista de datos con enfoque en visualización e inteligencia comercial. Me apasiona transformar datos complejos en decisiones claras para empresas reales. Actualmente desarrollo dashboards con Power BI y herramientas de análisis económico para mejorar el rendimiento comercial de mis clientes.
 
 ---
 
